@@ -1,3 +1,9 @@
+# InfinityTelnetClient #
+For use on servers with InfinityFreedomMod plugin only
+
+
+
+
 FreedomTelnetClient
 ==================
 
